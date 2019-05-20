@@ -1,5 +1,5 @@
 <?php
-namespace AdjusTech\Util;
+namespace Kotazuck\Util;
 
 class Jpdt extends \DateTime
 {

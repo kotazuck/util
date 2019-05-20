@@ -1,12 +1,12 @@
 {
-    "name": "adjustech/util",
+    "name": "kotazuck/util",
     "description": "some convinience classes",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "AdjusTech",
-            "email": "info@adjustech.net"
+            "name": "kotazuck",
+            "email": "mail.of.kota@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "AdjusTech\\Util\\": "src/"
+            "Kotazuck\\Util\\": "src/"
         }
     }
 }
